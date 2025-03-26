@@ -1,0 +1,3 @@
+[submodule "skill-showcases/taskmaster"]
+	path = skill-showcases/taskmaster
+	url = https://github.com/Timmsy1998/taskmaster.git
